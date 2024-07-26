@@ -3,7 +3,7 @@ This is a command-line tool written in Go to retrieve the private key associated
 This is useful when you want to generate your keypairs using AWS CDK.
 
 ## Features
-* Retrieves both private keys from an AWS keypair.
+* Retrieves private key from an AWS keypair.
 * Outputs the private key to the console or a specified file.
 
 ## Prerequisites
